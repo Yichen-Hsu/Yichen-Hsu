@@ -3,7 +3,7 @@
 Control the information, control the world.
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=yichen-hsu&&show_icons=true&title_color=ffed4f&icon_color=ffed4f&text_color=daf7dc&bg_color=151515"><\>
+<img src="https://github-readme-stats.vercel.app/api?username=yichen-hsu&&show_icons=true&title_color=ffed4f&icon_color=ffed4f&text_color=daf7dc&bg_color=151515">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yichen-Hsu&theme=great-gatsby&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
